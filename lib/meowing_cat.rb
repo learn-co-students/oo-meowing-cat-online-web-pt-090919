@@ -1,1 +1,5 @@
-## code your solution here. 
+class Cat
+  def name
+    cat.name = "maru"
+
+  end 
