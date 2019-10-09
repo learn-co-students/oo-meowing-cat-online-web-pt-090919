@@ -1,9 +1,9 @@
 class Cat 
-  attr_reader: name 
-  attr_writer: name 
-end
+ attr_accessor :name 
+ 
+ def meow
+   puts "meow!"
 
-attr_reader: meow
-attr_writer: meow
-
+  end
 end 
+
